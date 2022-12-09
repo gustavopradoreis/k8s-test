@@ -21,9 +21,9 @@
   "homepage": "http://rahul.my",
   "dependencies": {
     "@nestjs/common": "^5.4.0",
-    "@nestjs/core": "^5.4.0",
+    "@nestjs/core": "^9.2.1",
     "@nestjs/microservices": "^5.4.0",
-    "@nestjs/swagger": "^2.5.1",
+    "@nestjs/swagger": "^6.1.4",
     "@nestjs/testing": "^5.4.0",
     "@nestjs/websockets": "^5.4.0",
     "crypto": "^1.0.1",
